@@ -4,4 +4,14 @@
 
 #layout: home
 ---
-Hello world!
+# When and Where
+
+Coming soon...
+
+# Registration
+
+Coming soon...
+
+# Overnight schedule
+
+Coming soon...
