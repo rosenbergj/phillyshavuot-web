@@ -13,7 +13,7 @@ Where: This year we are hosted by Temple Beth Zion-Beth Israel, located at 300 S
 
 # Teach a class
 
-Please [fill out this form](https://example.com) to propose a class to teach overnight. The deadline to submit a proposal is Friday May 9.
+Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScaJVatAmHkbXbdUBrcw-O8eOnPXadLSMF0_53cpvGhvi4xTw/viewform?usp=sharing) to propose a class to teach overnight. The deadline to submit a proposal is Friday May 9.
 
 # Registration
 
