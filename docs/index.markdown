@@ -7,7 +7,7 @@ title: Shavuot
 ---
 # When and Where
 
-When: The first night of Shavuot! Sunday June 5, 2025, from evening until sunrise. (Exact times to be announced later.)
+When: The first night of Shavuot! Sunday June 1, 2025, from evening until sunrise. (Exact times to be announced later.)
 
 Where: This year we are hosted by Temple Beth Zion-Beth Israel, located at 300 S 18th Street in Center City Philadelphia.
 
