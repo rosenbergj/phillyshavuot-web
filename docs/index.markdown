@@ -24,3 +24,9 @@ Coming soon...
 Please note that the program will begin after dinner this year. Desserts and snacks will be provided overnight.
 
 Schedule coming soon...
+
+# Sponsorship
+
+This independent event is made possible in part through the sponsorship of participating synagogues and communities (list coming soon), as well as a grant from the Jewish Federation of Greater Philadelphia.
+
+<a href="https://jewishphilly.org"><img src="https://jewishphilly.org/wp-content/uploads/2021/10/JFGP_cmyk-2021-01.jpg" width="300" alt="Jewish Federation of Greater Philadelphia logo"/></a>
