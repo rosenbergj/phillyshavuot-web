@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Center City Tikkun Leil Shavuot 2025/5785
+title: Center City Jewish Night of Learning 2025/5785
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Information about the 2025 Center City Night of Jewish Learning / Tikkun Leil Shavuot
+    Information about the 2025 Center City Jewish Night of Learning / Tikkun Leil Shavuot
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://phillyshavuot.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
