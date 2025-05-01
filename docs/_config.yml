@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://phillyshavuot.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  rosenbergj
+cover: "images/gradient.png"
 
 # Build settings
 #theme: slate
