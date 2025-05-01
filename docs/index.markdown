@@ -32,6 +32,7 @@ Please note that the program will begin after dinner this year. Desserts and sna
 | 10:45 | Event start for later arrivals |
 | 11:00–11:50 | Full-group panel |
 | 12:00–4:45 | Learning sessions and desserts throughout the night! |
+| 5:00 | Several local synagogues are hosting sunrise services |
 
 # Sponsorship
 
