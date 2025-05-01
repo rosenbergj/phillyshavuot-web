@@ -28,10 +28,10 @@ Please note that the program will begin after dinner this year. Desserts and sna
 | Time |  |
 |---|---|
 | 9:30 | Event start |
-| 9:45-10:45 | Early-bird session |
+| 9:45–10:45 | Early-bird session |
 | 10:45 | Event start for later arrivals |
-| 11:00-11:50 | Full-group panel |
-| 12:00-4:45 | Learning sessions and desserts throughout the night! |
+| 11:00–11:50 | Full-group panel |
+| 12:00–4:45 | Learning sessions and desserts throughout the night! |
 
 # Sponsorship
 
