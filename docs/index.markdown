@@ -29,7 +29,7 @@ Schedule coming soon...
 
 This independent event is made possible in part through the sponsorship of participating synagogues and communities: Temple Beth Zion-Beth Israel, Kol Tzedek, Mekor Habracha, Society Hill Synagogue, and South Philadelphia Shtiebel; as well as a grant from the Jewish Federation of Greater Philadelphia.
 
-<a href="https://bzbi.org"><img src="images/bzbi.webp" height="150" alt="Temple Beth Zion-Beth Israel logo"/></a> <a href="https://jewishphilly.org"><img src="https://jewishphilly.org/wp-content/uploads/2021/10/JFGP_cmyk-2021-01.jpg" width="300" alt="Jewish Federation of Greater Philadelphia logo"/></a>
+<a href="https://bzbi.org"><img src="images/bzbi.webp" height="150" alt="Temple Beth Zion-Beth Israel logo"/></a> <a href="https://jewishphilly.org"><img src="images/federation.webp" width="300" alt="Jewish Federation of Greater Philadelphia logo"/></a>
 
 <a href="https://kol-tzedek.org"><img src="images/kt.png" width="300" alt="Kol Tzedek logo"/></a> <a href="https://www.mekorhabracha.org/"><img src="images/mekor.png" height="150" alt="Mekor Habracha logo"/></a>
 
