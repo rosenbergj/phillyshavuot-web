@@ -19,7 +19,7 @@ Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScaJVatAmHk
 
 Coming soon...
 
-# Overnight schedule
+# Event Details
 
 Please note that the program will begin after dinner this year. Desserts and snacks will be provided overnight.
 
@@ -33,6 +33,12 @@ Please note that the program will begin after dinner this year. Desserts and sna
 | 11:00–11:50pm | Full-group panel |
 | 12:00–4:45am | Learning sessions and desserts throughout the night! |
 | 5:00am | Shacharit (morning) services |
+
+### Code of Conduct
+
+All attendees are expected to adhere to the following code of conduct:
+
+The expectation of this event is that all interactions are based on mutual respect and are free from harassment, including sexual harassment. Interpersonal interactions should be free of unwelcome touching, unwelcome expressions of intimacy, unwelcome topics of conversation, or other unwelcome conduct. This community comprises many different perspectives and identities, and we should not expect to completely agree with each other all the time. Listen carefully, and speak kindly and with respect; we all have much to learn from one another. Those who are not able to abide by these guidelines will be asked to leave.
 
 # Sponsorship
 
