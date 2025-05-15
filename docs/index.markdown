@@ -30,9 +30,8 @@ Please note that the program will begin after dinner this year. Desserts and sna
 | 9:30pm | Event start |
 | 9:45–10:45pm | Early-bird session |
 | 10:45pm | Event start for later arrivals |
-| 11:00–11:50pm | Full-group panel |
-| 12:00–4:45am | Learning sessions and desserts throughout the night! |
-| 5:00am | Shacharit (morning) services |
+| 11:00–4:45am | Learning sessions and desserts throughout the night! |
+| 5:00am | Several local synagogues are hosting sunrise services |
 
 ### Code of Conduct
 
