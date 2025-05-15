@@ -39,14 +39,3 @@ Please note that the program will begin after dinner this year. Desserts and sna
 All attendees are expected to adhere to the following code of conduct:
 
 The expectation of this event is that all interactions are based on mutual respect and are free from harassment, including sexual harassment. Interpersonal interactions should be free of unwelcome touching, unwelcome expressions of intimacy, unwelcome topics of conversation, or other unwelcome conduct. This community comprises many different perspectives and identities, and we should not expect to completely agree with each other all the time. Listen carefully, and speak kindly and with respect; we all have much to learn from one another. Those who are not able to abide by these guidelines will be asked to leave.
-
-# Sponsorship
-
-This independent event is made possible in part through the sponsorship of participating synagogues and communities: Temple Beth Zion-Beth Israel, Kol Tzedek, Mekor Habracha, Society Hill Synagogue, and South Philadelphia Shtiebel; as well as a grant from the Jewish Federation of Greater Philadelphia.
-
-<a href="https://bzbi.org"><img src="images/bzbi.png" height="150" alt="Temple Beth Zion-Beth Israel logo"/></a> <a href="https://jewishphilly.org"><img src="images/federation.webp" width="300" alt="Jewish Federation of Greater Philadelphia logo"/></a>
-
-<a href="https://kol-tzedek.org"><img src="images/kt.png" width="300" alt="Kol Tzedek logo"/></a> <a href="https://www.mekorhabracha.org/"><img src="images/mekor.png" height="150" alt="Mekor Habracha logo"/></a>
-
-<a href="https://www.societyhillsynagogue.org/"><img src="images/shs.png" width="300" alt="Society Hill Synagogue logo"/></a> <a href="https://www.southphiladelphiashtiebel.org/"><img src="images/shtiebel.avif" height="150" alt="South Philadelphia Shtiebel logo"/></a>
-
