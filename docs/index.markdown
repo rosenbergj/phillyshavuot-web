@@ -7,7 +7,7 @@ title: Shavuot
 ---
 # When and Where
 
-When: The first night of Shavuot! Sunday June 1, 2025, from 9:30pm (or 10:45pm for later arrivals) until 4:45am
+When: The first night of Shavuot! Sunday June 1, 2025, from 9:30pm or 10:45pm until 4:45am
 
 Where: This year we are hosted by Temple Beth Zion-Beth Israel, located at 300 S 18th Street in Center City Philadelphia.
 
@@ -27,9 +27,9 @@ Please note that the program will begin after dinner this year. Desserts and sna
 
 | Time |  |
 |---|---|
-| 9:30pm | Event start |
+| 9:30pm | Event start for early birds |
 | 9:45–10:45pm | Early-bird session |
-| 10:45pm | Event start for later arrivals |
+| 10:45pm | Event start |
 | 11:00–4:45am | Learning sessions and desserts throughout the night! |
 | 5:00am | Several local synagogues are hosting sunrise services |
 
