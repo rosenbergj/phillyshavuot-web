@@ -42,3 +42,5 @@ The expectation of this event is that all interactions are based on mutual respe
 This community comprises many different perspectives and identities, and we should not expect to completely agree with each other all the time. Disagreement is natural, but it must be expressed constructively and respectfully. Listen carefully and speak kindly; we all have much to learn from one another.
 
 Those who are not able to abide by these guidelines will be asked to leave.
+
+<img src="images/shavuot2025.png" alt="Shavuot registration infographic"/>
