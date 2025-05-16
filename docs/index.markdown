@@ -43,4 +43,8 @@ This community comprises many different perspectives and identities, and we shou
 
 Those who are not able to abide by these guidelines will be asked to leave.
 
+### Contact
+
+Questions? Email info@phillyshavuot.org.
+
 <img src="images/shavuot2025.png" alt="Shavuot registration infographic"/>
