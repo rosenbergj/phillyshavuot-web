@@ -5,25 +5,27 @@
 title: Shavuot
 #layout: home
 ---
-# When and Where
+## When and Where
 
 When: The first night of Shavuot! Sunday June 1, 2025, from 9:30pm or 10:45pm until 4:45am
 
 Where: This year we are hosted by Temple Beth Zion-Beth Israel, located at 300 S 18th Street in Center City Philadelphia.
 
-<!-- # Teach a class
+<!-- ## Teach a class
 
 Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScaJVatAmHkbXbdUBrcw-O8eOnPXadLSMF0_53cpvGhvi4xTw/viewform?usp=sharing) to propose a class to teach overnight. The deadline to submit a proposal is Friday May 9.-->
 
-# Registration
+## Registration
 
 Registration is open! [Please register here](https://templebethzionbethisrael.shulcloud.com/form/Center_City_Tikkun_Leil_Shavuot_2025). Registrations are requested by Tuesday May 27th so we can be sure to purchase the right amount of food.
 
-# Event Details
+## Event Details
 
 Please note that the program will begin after dinner this year. Desserts and snacks will be provided overnight.
 
 ### Schedule Overview
+
+The full list of classes overnight should be available by Friday May 23.
 
 | Time |  |
 |---|---|
@@ -33,7 +35,7 @@ Please note that the program will begin after dinner this year. Desserts and sna
 | 11:00–4:45am | Learning sessions and desserts throughout the night! |
 | 5:00am | Several local synagogues are hosting sunrise services |
 
-### Code of Conduct
+## Code of Conduct
 
 All attendees are expected to adhere to the following code of conduct:
 
@@ -43,7 +45,7 @@ This community comprises many different perspectives and identities, and we shou
 
 Those who are not able to abide by these guidelines will be asked to leave.
 
-### Contact
+## Contact
 
 Questions? Email info@phillyshavuot.org.
 
