@@ -33,6 +33,19 @@ Please note that the program will begin after dinner this year. Desserts and sna
 | 11:00–4:45am | Learning sessions and desserts throughout the night! |
 | 5:00am | Several local synagogues are hosting sunrise services |
 
+### Classes
+
+(This is only on the website for a brief moment for testing. Congrats if you found it!)
+
+| time | class 1 | class 2 | class 3 | class 4 | class 5 | class 6 |
+|-|-|-|-|-|-|-|
+| 9:45pm  | Rebbe Nachman & Leonard Cohen <br/><i> Nancy Leaderman</i>                               | How to Behave in Shul - What Our Tradition Teaches <br/><i> Rabbi David Seed</i>           | Jews in Baseball and Some Other Sports <br/><i> Matt Whitehorn</i>                      | Blood Libel: From My Grandfather's Memoir  <br/><i> Paul E. Ruskin, M.D.</i>        | The Ten \_________________  <br/><i> Rabbi Kenneth Stern</i>                                          | |
+| 11:00pm | Torah, Tarot, and Trickery: Judaism and Divination <br/><i> Rabbi Steven Gotlib</i>      | Theologies of Exile <br/><i> Rabbi Ari Lev Fornari</i>                                     | A Barrel Over Their Heads: Levinas on Matan Torah <br/><i> Dr Michael Gillis</i>        | Women's Hebrew Poetry and וַתִּפֹּל, עַל-פָּנֶיהָ  <br/><i> Anabella Esperanza</i>            | Let's taste some of the delicious aspects of the Sephardi traditions <br/><i> Rabbi Albert Gabbai</i> | &nbsp;<br/><i> Rabbanit Dasi Fruchter</i>                                               |
+| 12:30am | Motions and Movements at Religious Services <br/><i> Davida Charney</i>                  | Leaving Shul for Yizkor  <br/><i> Chesky Kopel</i>                                         | Slay Sacred Cows, Smash Tablets: Leading in Crisis <br/><i> Rabba Rori Picker Neiss</i> | The Drama behind the Two Versions of the Torah  <br/><i> Rabbi David Greenstein</i> | Inside the City Eruv: Halacha in the Trenches <br/><i> Rabbi Eliezer Hirsch</i>                       | The Baal Shem Tov’s Amud HaTefilah <br/><i> Rabbi Mónica Gomery and Rabbi Abi Weber</i> |
+| 1:30am  | Highway 61 Revisted Revisited <br/><i> David Margules</i>                                | Gematria, Atbash, Bible Codes, Et Cetera <br/><i> Jerry Silverman</i>                      | "Holy Chavruta, Batman!" <br/><i> Eitan Runyan</i>                                      | The Soul Within the Scroll <br/><i> Yoella Epstein</i>                              | A New Jewish Ethic  <br/><i> Joseph "Joey" Eisman</i>                                                 | God Would Never... Unless?? <br/><i> Jesse Breitbart</i>                                |
+| 2:50am  | Our Challenging Teachings: What Troubles You?  <br/><i> Dr. Saundra Sterling Epstein</i> | The Halacha of Living in the Diaspora, from Breishit to Vayikra <br/><i> Shayna Hodkin</i> | “O Shavuos Tree, O Shavuos Tree”  <br/><i> Russel Neiss</i>                             | Big Themes in American Jewish History  <br/><i> Barry Kirzner</i>                   | The 12 Tribes, the Shemoneh Esreh, and You  <br/><i> Timothy W. Cravens</i>                           | |
+| 3:50am  | No place like it: Utopias and Center City Jews <br/><i> Miriam Steinberg-Egeth</i>       | The Immortal Prophet: The Character of Eliyahu <br/><i> Noah Fields</i>                    | Look at Moses’ Life Through Heaven’s Eyes  <br/><i> Michael Steinberg</i>               | Making of a Mass Murderer <br/><i> Tadhg Cleary</i>                                 | | |
+
 ### Code of Conduct
 
 All attendees are expected to adhere to the following code of conduct:
