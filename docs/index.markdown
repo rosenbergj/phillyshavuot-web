@@ -17,7 +17,7 @@ Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScaJVatAmHk
 
 ## Registration
 
-Registration is open! [Please register here](https://templebethzionbethisrael.shulcloud.com/form/Center_City_Tikkun_Leil_Shavuot_2025). Registrations are requested by Tuesday May 27th so we can be sure to purchase the right amount of food.
+Registration is open! [Please register here](https://templebethzionbethisrael.shulcloud.com/form/Center_City_Tikkun_Leil_Shavuot_2025). **The registration deadline is Sunday June 1 at 10:00am EDT. Only those who have registered will be admitted to the event.** <!--Registrations are requested by Tuesday May 27th so we can be sure to purchase the right amount of food.-->
 
 ## Event Details
 
