@@ -13,9 +13,9 @@ When: The first night of Shavuot! Thursday May 21 2026, from 9:15pm or 10:30pm u
 
 Where: This year we are hosted by Temple Beth Zion-Beth Israel, located at 300 S 18th Street in Center City Philadelphia.
 
-## Teach a class
+## Teach a Class
 
-The link to to propose a class to teach overnight will be here on or around Monday April 13.
+Please [fill out this form](https://forms.gle/w6mty9xoiTmr2eqHA) to propose a class to teach overnight. The deadline to submit a proposal is Monday April 27.
 
 ## Event Details
 
