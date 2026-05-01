@@ -49,8 +49,8 @@ Those who are not able to abide by these guidelines will be asked to leave.
 
 Questions? Email info@phillyshavuot.org.
 
+<img src="images/shavuot2026.jpg" alt="Shavuot registration infographic"/>
+
 ## Archive
 
 You can find [information about last year's program here](https://phillyshavuot.org/2025).
-
-<img src="images/shavuot2026.jpg" alt="Shavuot registration infographic"/>
