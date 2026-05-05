@@ -17,6 +17,10 @@ Where: This year we are hosted by Temple Beth Zion-Beth Israel, located at 300 S
 
 Please [fill out this form](https://forms.gle/w6mty9xoiTmr2eqHA) to propose a class to teach overnight. The deadline to submit a proposal is Monday April 27. -->
 
+## Registration
+
+Registration is open! [Please register here](https://templebethzionbethisrael.shulcloud.com/form/center-city-tikkun-leil-shavuot-2026.html). <!--**The registration deadline is Tuesday May 19 at 1:00pm EDT. Only those who have registered will be admitted to the event.**--> Registrations are requested by Friday May 15th so we can be sure to purchase the right amount of food.
+
 ## Event Details
 
 Please note that the program will begin after dinner. Desserts and snacks will be provided overnight.
